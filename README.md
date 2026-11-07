@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=+Gustavo+Braga" alt="Typing SVG">
+  </a>
+</div>
 
-<!--
-**GuAlmeida29/GuAlmeida29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+Me chamo Gustavo, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na Unicid. 
+ 
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gustavo.bragadomingues@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gustavo-braga-87325a2b7/)
+
